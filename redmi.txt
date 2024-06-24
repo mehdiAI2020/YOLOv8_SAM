@@ -1,0 +1,13 @@
+#python version 3.10
+
+#install requrment.txt
+
+#set directory acorrding your system
+
+# upload weight of finetuned YOLOv8 and sam which link
+
+# """during testing Sam(evaluation_sam.ipynb) if you want to test network throught boxes produced by YOLOv8
+   first un comment extracting bounding boxes CELL and in Class clone dataset un comment ""bbox_arr = extract_bboxes(image, 1)""
+   """
+   # link to weight https://drive.google.com/file/d/1Qj742BdM5vAM_SPs6MNpuqgzDA3_96Id/view?usp=drive_link
+   

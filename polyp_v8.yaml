@@ -1,0 +1,7 @@
+path: 'data\'
+train: 'C:/Users/39327/CV/polyp/polyp_Sam/data/train/images'
+val: 'C:/Users/39327/CV/polyp/polyp_Sam/data/val/images'
+
+# class names
+names: 
+  0: 'polyp'
